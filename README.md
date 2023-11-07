@@ -98,6 +98,13 @@ dt.predict([[5,6]])
 ![ml_7 3](https://github.com/gummadileepkumar/Implementation-of-Decision-Tree-Regressor-Model-for-Predicting-the-Salary-of-the-Employee/assets/118707761/a4a70181-7420-423f-8798-648285d3b622)
 
 
+
+
+
+
+
+
+
 ### data.head() for Position :
 
 
