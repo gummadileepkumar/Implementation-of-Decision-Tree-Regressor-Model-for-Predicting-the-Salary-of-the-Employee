@@ -102,7 +102,7 @@ dt.predict([[5,6]])
 
 
 
-
+.
 
 
 ### data.head() for Position :
